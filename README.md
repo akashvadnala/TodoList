@@ -12,7 +12,7 @@ If you want to add anything, just mail me akashvadnala123@gmail.com
 // Follow the below commands to run in your local run machine..
 
 
-cd todolist     (cd <filename>)
+cd todolist     (cd {filename})
 
 python3 -m venv tenv
 
