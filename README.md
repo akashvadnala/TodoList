@@ -20,8 +20,8 @@ tenv\bin\activate  (for windows)
 
 pip install -r t_req.txt
 
-python manage.py migrate
+python3 manage.py migrate
 
-python manage.py runserver
+python3 manage.py runserver
 
 browse to http://127.0.0.1:8000/todolist/
