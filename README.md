@@ -15,6 +15,7 @@ If you want to add anything, just mail me akashvadnala123@gmail.com
 cd todolist     (cd {filename})
 
 source tenv/bin/activate (for linux)
+
 tenv\bin\activate  (for windows)
 
 pip install -r t_req.txt
