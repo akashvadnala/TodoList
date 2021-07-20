@@ -15,7 +15,8 @@ cd todolist
 
 python3 -m venv tenv
 
-source tenv/bin/activate
+source tenv/bin/activate (for linux)
+tenv\bin\activate  (for windows)
 
 pip install -r t_req.txt
 
