@@ -14,7 +14,12 @@ If you want to add anything, just mail me akashvadnala123@gmail.com
 
 cd todolist     (cd {filename})
 
+
+python -m virtualenv venv (for linux)
+
 source tenv/bin/activate (for linux)
+
+python3 -m venv tenv (for windows)
 
 tenv\bin\activate  (for windows)
 
