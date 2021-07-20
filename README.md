@@ -25,6 +25,8 @@ tenv\bin\activate  (for windows)
 
 pip install -r t_req.txt
 
+python3 manage.py makemigrations
+
 python3 manage.py migrate
 
 python3 manage.py runserver
