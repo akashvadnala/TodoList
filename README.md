@@ -21,7 +21,7 @@ source tenv/bin/activate (for linux)
 
 python3 -m venv tenv (for windows)
 
-tenv\bin\activate  (for windows)
+tenv\Scripts\activate  (for windows)
 
 pip install -r t_req.txt
 
