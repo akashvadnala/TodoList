@@ -11,7 +11,8 @@ If you want to add anything, just mail me akashvadnala123@gmail.com
 
 // Follow the below commands to run in your local run machine..
 
-cd todolist
+
+cd todolist     (cd <filename>)
 
 python3 -m venv tenv
 
@@ -19,8 +20,6 @@ source tenv/bin/activate (for linux)
 tenv\bin\activate  (for windows)
 
 pip install -r t_req.txt
-
-python manage.py makemigration
 
 python manage.py migrate
 
