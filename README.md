@@ -14,8 +14,6 @@ If you want to add anything, just mail me akashvadnala123@gmail.com
 
 cd todolist     (cd {filename})
 
-python3 -m venv tenv
-
 source tenv/bin/activate (for linux)
 tenv\bin\activate  (for windows)
 
